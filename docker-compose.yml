@@ -18,6 +18,6 @@ services:
   solution-python:
     image: solution-python
     build: images/solution-python
-    command: ["./solution.py"]
+    command: ["./main.py"]
     volumes:
       - ./data:/data

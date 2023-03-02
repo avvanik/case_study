@@ -5,4 +5,6 @@ WORKDIR /app
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY solution.py ./
+COPY main.py ./
+COPY convert.py ./
+COPY output.py ./
