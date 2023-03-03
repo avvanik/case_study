@@ -1,5 +1,7 @@
+
+### Clone repository
+
 - git clone https://github.com/avvanik/gotphoto.git
-- cd gotphoto
 
 
 ### Building image
