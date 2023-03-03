@@ -17,7 +17,7 @@
 mysql> SELECT * FROM people LIMIT 5;
 mysql> SELECT * FROM places LIMIT 5;
 
-## Shut down
+##' Shut down
 
 - docker compose down
 
