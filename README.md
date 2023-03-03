@@ -1,3 +1,4 @@
+## Codetest part 1
 
 ### Clone repository
 
@@ -20,9 +21,7 @@
 
 - docker compose run database mysql --host=database --user=codetest --password=swordfish codetest
 
-mysql> SELECT * FROM people LIMIT 5;
-
-mysql> SELECT * FROM places LIMIT 5;
+mysql> SELECT * FROM people LIMIT 5; mysql> SELECT * FROM places LIMIT 5;
 
 ### Shut down
 
