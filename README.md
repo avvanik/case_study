@@ -1,3 +1,7 @@
+- git clone https://github.com/avvanik/gotphoto.git
+- cd gotphoto
+
+
 ### Building image
 
 - docker compose build
